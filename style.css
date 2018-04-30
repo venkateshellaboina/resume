@@ -1,0 +1,60 @@
+#pro
+{
+   
+  position: relative;
+  left: 45%;
+  max-width: 15%;
+  border-radius: 500px;
+  opacity: 0.8;
+
+ 
+  
+}
+
+h1{
+	color:white;
+	font-size:2vw;
+}
+h3
+{
+	color:black;
+	font-size:2vw;
+	font-family: ChunkFive;
+
+}
+#motto
+{
+	background: url("images/motto.jpg");
+	margin: 0px;
+	height: 400px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	opacity: 0.6;
+	font-weight:lighter;
+
+}
+
+#lappy
+{
+	background:url("images/pic3.jpg");
+	margin:0px;
+	height:500px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#links a{
+	
+    font-size: 3vw;
+    color: grey;
+    padding-left: 5%;
+}
+
+#links a:hover{
+	color:#7e7f9a;
+}
